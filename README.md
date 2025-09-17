@@ -12,5 +12,6 @@ class Test
     System.out.println("This is the first git repositotry.");
     String str="hi";
     System.out.println(str);
+    System.out.println();
   }
 }
